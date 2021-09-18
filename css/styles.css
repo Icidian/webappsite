@@ -19,3 +19,8 @@
   height: 100px;
   width: 100px;
 }
+
+.site-footer {
+  background-image: linear-gradient(to right, #40eed7, #5eb2eb, #2fcce7);
+  color: black;
+}
