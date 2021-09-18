@@ -1,0 +1,10 @@
+.jumbotron {
+  margin: 0;
+  padding: 30px;
+  background-image: linear-gradient(to right, #40eed7, #5eb2eb, #2fcce7);
+  color: white;
+}
+
+.mainNav {
+  background-image: linear-gradient(to right, #40eed7, #5eb2eb, #2fcce7);
+}
