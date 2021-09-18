@@ -8,3 +8,14 @@
 .mainNav {
   background-image: linear-gradient(to right, #40eed7, #5eb2eb, #2fcce7);
 }
+
+.row-content {
+  padding: 50px 0;
+  border-bottom: 1px ridge;
+  min-height: 200px;
+}
+
+#eventvideo {
+  height: 100px;
+  width: 100px;
+}
